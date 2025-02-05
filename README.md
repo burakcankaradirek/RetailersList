@@ -38,4 +38,4 @@ Ensure you have the following installed before running the script:
 
 ## Learn More
 
-You can check out my Medium blog about this app [here](https://medium.com/@burakcankaradirek/web-scraping-with-selenium-and-beautifulsoup-cd5647fe5b57).
+To learn more about this app, you can check out my Medium blog [here](https://medium.com/@burakcankaradirek/web-scraping-with-selenium-and-beautifulsoup-cd5647fe5b57).
