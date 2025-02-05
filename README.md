@@ -25,9 +25,17 @@ Ensure you have the following installed before running the script:
   ```bash
   pip install selenium beautifulsoup4 pandas
 
+---
+
 ## Example Output (`retailers.csv`)
 
 | Name           | Street Address | City    | State | ZIP   |
 |----------------|----------------|---------|-------|-------|
 | Healthy Market | 123 Main St    | Denver  | CO    | 80202 |
 | Organic World  | 456 Green Ave  | Austin  | TX    | 73301 |
+
+---
+
+## Medium Blog
+
+You can check out my Medium blog about this app [here]([github.com/cobanov](https://medium.com/@burakcankaradirek/web-scraping-with-selenium-and-beautifulsoup-cd5647fe5b57)).
