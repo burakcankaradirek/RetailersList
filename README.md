@@ -36,6 +36,6 @@ Ensure you have the following installed before running the script:
 
 ---
 
-## Medium Blog
+## Learn More
 
 You can check out my Medium blog about this app [here](https://medium.com/@burakcankaradirek/web-scraping-with-selenium-and-beautifulsoup-cd5647fe5b57).
